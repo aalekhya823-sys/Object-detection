@@ -1,4 +1,5 @@
-# YOLOv8 Object Detection (Image & Video)
+# YOLOv8 Object Detection (Video)
+# YOLO11n Object Detection (image)
 
 ## Overview
 
